@@ -1,0 +1,19 @@
+{
+  "name": "alchemy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "ej1": "node 01_ultimo_bloque.mjs",
+    "ej2": "node 02_transacciones_bloque.mjs",
+    "ej3": "node 03_balance_y_gwei.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "viem": "^2.37.9"
+  }
+}
